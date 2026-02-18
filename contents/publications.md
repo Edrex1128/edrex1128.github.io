@@ -1,16 +1,16 @@
-#### Submitted
+<!-- #### Submitted
 
 - <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
 
-#### Published
+#### Published -->
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Yiyang Chen, <strong>Fuzheng Zhang</strong>, Guina Wang, Guirong Weng, and Daniele Fontanelli (2025). An Active Contour Model Based on Fuzzy Superpixel Centers and Nonlinear Diffusion Filter for Instance Segmentation. *IEEE Transactions on Instrumentation and Measurement*. [[Paper]](https://doi.org/10.1109/TIM.2025.3573369)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Zhen Li, <strong>Fuzheng Zhang</strong>, Guina Wang, Guirong Weng, and Yiyang Chen. An Active Contour Model Based on Kullback–Leibler Divergence and Morphology for Image Segmentation with Edge Leakage (2025). *Signal Processing*. [[Paper]](https://doi.org/10.1016/j.sigpro.2025.110143)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Fuzheng Zhang</strong>, Xiaoyu Bi, Guina Wang, Guirong Weng, and Yiyang Chen (2025). Anisotropic Edge-Enhanced Active Contour Model with Gaussian Difference for Robust Multi-Category Image Segmentation. *The Visual Computer*. [[Paper]](https://doi.org/10.1007/s00371-025-04026-0) [[Code]](https://github.com/Edrex1128/DoGEED)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Jian Su, Guirong Weng, and <strong>Fuzheng Zhang*</strong> (2025). PBFK: Leveraging Pre-Bias Field and K-Means++ Clustering based Active Contour Model for Robust Image Segmentation. *Signal, Image and Video Processing*. [[Paper]](https://doi.org/10.1007/s11760-025-04983-y)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Guina Wang, <strong>Fuzheng Zhang</strong>, Yiyang Chen, Guirong Weng, and Hongtian Chen (2023). An Active Contour Model Based on Local Pre-Piecewise Fitting Bias Corrections for Fast and Accurate Segmentation. *IEEE Transactions on Instrumentation and Measurement*. [[Paper]](https://doi.org/10.1109/tim.2023.3241981)
 
