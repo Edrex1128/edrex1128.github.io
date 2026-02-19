@@ -10,4 +10,4 @@ Currently, I am working on refining the reasoning capabilities of LLMs/MLLMs, es
 
 #### Contact
 
-Email: fuzhengzhang1128[at]seu.edu.cn
+Email: fuzhengzhang1128@seu.edu.cn
